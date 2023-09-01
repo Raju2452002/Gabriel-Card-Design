@@ -1,4 +1,4 @@
-![image](https://github.com/Raju2452002/Gabriel-Card-Design/assets/143723276/55ab3843-b0f5-42c2-b5df-7f76d3362a93)# Gabriel-Card-Design
+
 
 **Steps to Run Project**
 
