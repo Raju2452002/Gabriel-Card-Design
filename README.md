@@ -1,5 +1,3 @@
-
-
 **Steps to Run Project**
 
 **Download Project and Extact it.**
